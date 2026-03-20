@@ -1,5 +1,8 @@
 # SAR_Project
 
+## Folder Structure
+
+```text
 project-root/
 │
 ├── docs/
@@ -17,3 +20,4 @@ project-root/
 ├── legacy/   ← הקוד הישן (לניתוח בלבד)
 │
 └── README.md
+```
